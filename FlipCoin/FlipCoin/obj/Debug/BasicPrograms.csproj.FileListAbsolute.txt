@@ -1,0 +1,8 @@
+F:\BasicCore\FlipCoin\FlipCoin\bin\Debug\FlipCoin.exe.config
+F:\BasicCore\FlipCoin\FlipCoin\bin\Debug\FlipCoin.exe
+F:\BasicCore\FlipCoin\FlipCoin\bin\Debug\FlipCoin.pdb
+F:\BasicCore\FlipCoin\FlipCoin\obj\Debug\BasicPrograms.csproj.AssemblyReference.cache
+F:\BasicCore\FlipCoin\FlipCoin\obj\Debug\BasicPrograms.csproj.SuggestedBindingRedirects.cache
+F:\BasicCore\FlipCoin\FlipCoin\obj\Debug\BasicPrograms.csproj.CoreCompileInputs.cache
+F:\BasicCore\FlipCoin\FlipCoin\obj\Debug\FlipCoin.exe
+F:\BasicCore\FlipCoin\FlipCoin\obj\Debug\FlipCoin.pdb
