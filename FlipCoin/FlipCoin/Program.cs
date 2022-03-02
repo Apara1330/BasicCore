@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace BasicPrograms
 {
-    internal class Program
+     class Program
     {
         static void Main(string[] args)
         {
             // Console.WriteLine("Hellooo");
-            FlipCoin.flipCoinPercentage();
+            //FlipCoin.flipCoinPercentage();
+            Leap_Year.Year();
             Console.ReadLine();
         }
     }
