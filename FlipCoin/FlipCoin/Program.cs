@@ -12,7 +12,8 @@ namespace BasicPrograms
         {
             // Console.WriteLine("Hellooo");
             //FlipCoin.flipCoinPercentage();
-            Leap_Year.Year();
+            // Leap_Year.Year();
+            PowerOfTwo.ToGetPowerOfTwo();
             Console.ReadLine();
         }
     }
