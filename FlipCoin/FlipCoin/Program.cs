@@ -13,7 +13,8 @@ namespace BasicPrograms
             // Console.WriteLine("Hellooo");
             //FlipCoin.flipCoinPercentage();
             // Leap_Year.Year();
-            PowerOfTwo.ToGetPowerOfTwo();
+            //PowerOfTwo.ToGetPowerOfTwo();
+            Harmonic.ToPrintHarmonicNumber();
             Console.ReadLine();
         }
     }
