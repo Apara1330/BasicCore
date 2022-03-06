@@ -17,7 +17,8 @@ namespace BasicPrograms
             //PowerOfTwo.ToGetPowerOfTwo();
             //Harmonic.ToPrintHarmonicNumber();
             //Factors.toFindFact();
-            Quotient_Reminder.number();
+            // Quotient_Reminder.number();
+            SwapNumber.readInputFromUser();
             Console.ReadLine();
         }
     }
