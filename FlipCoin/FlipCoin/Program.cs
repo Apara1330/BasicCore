@@ -19,7 +19,8 @@ namespace BasicPrograms
             //Factors.toFindFact();
             // Quotient_Reminder.number();
             //SwapNumber.readInputFromUser();
-            Even_Odd.number();
+            //Even_Odd.number();
+            AlphabetIsVowelOrConsonent.Character();
             Console.ReadLine();
         }
     }
