@@ -16,7 +16,8 @@ namespace BasicPrograms
             // Leap_Year.Year();
             //PowerOfTwo.ToGetPowerOfTwo();
             //Harmonic.ToPrintHarmonicNumber();
-            Factors.toFindFact();
+            //Factors.toFindFact();
+            Quotient_Reminder.number();
             Console.ReadLine();
         }
     }
