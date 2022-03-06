@@ -18,7 +18,8 @@ namespace BasicPrograms
             //Harmonic.ToPrintHarmonicNumber();
             //Factors.toFindFact();
             // Quotient_Reminder.number();
-            SwapNumber.readInputFromUser();
+            //SwapNumber.readInputFromUser();
+            Even_Odd.number();
             Console.ReadLine();
         }
     }
